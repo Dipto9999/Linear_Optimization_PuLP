@@ -16,7 +16,7 @@ To better explain the scenarios detailed in the homework, I described the mathem
 
 I have written a [short essay](Linear_Programming_History.pdf) on the development of <b>Linear Programming</b>, which also touches on its wide usage in different economical applications. 
 
-I have had the idea to use <b>Linear Programming</b> and <b>PuLP</b> in a larger <b>Sudoku</b> Game Project. As shown in the following script [(`Sudoku2.py`)](https://raw.githubusercontent.com/coin-or/pulp/master/examples/Sudoku2.py), this can be used to find the solutions to the game. 
+This has given me the idea to use <b>Linear Programming</b> and <b>PuLP</b> in a larger `Sudoku Game Project`. As shown in the following script [(`Sudoku2.py`)](https://raw.githubusercontent.com/coin-or/pulp/master/examples/Sudoku2.py), this can be used to find the solutions to the game. 
 
 ## Credit
 
