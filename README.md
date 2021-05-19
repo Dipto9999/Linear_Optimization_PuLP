@@ -8,9 +8,7 @@
 
 ## Overview
 
-I applied my knowledge of programming principles to solve linear optimization problems from my math elective <b>MATH 340 - Linear Programming</b>. 
-
-This involved writing <b>Jupyter Notebook</b> files using the <b>PuLP</b> Library in <b>Python</b>.
+I applied my knowledge of programming principles to solve linear optimization problems from my upper year math elective course : <b>MATH 340 - Linear Programming</b>. This involved writing <b>Jupyter Notebook</b> files using the <b>PuLP</b> Library in <b>Python</b>.
 
 To better explain the scenarios detailed in the homework, I described the mathematical concepts and formulation of the linear programming problem using `LaTex` in the `.ipynb` files.
 
