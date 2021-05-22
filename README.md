@@ -20,5 +20,5 @@ This has given me the idea to use <b>Linear Programming</b> and <b>PuLP</b> in a
 
 ## Credit
 
-The (`Sudoku2.py`) script is further detailed by its authors at</br>
+The (`Sudoku2.py`) script is further detailed by its authors at
 [https://coin-or.github.io/pulp/CaseStudies/a_sudoku_problem.html](https://coin-or.github.io/pulp/CaseStudies/a_sudoku_problem.html)
