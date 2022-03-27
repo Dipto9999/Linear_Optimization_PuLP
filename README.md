@@ -12,7 +12,7 @@ I applied my knowledge of programming principles to solve linear optimization pr
 
 To better explain the scenarios detailed in the homework, I described the mathematical concepts and formulation of the linear programming problem using `LaTex` in the `.ipynb` files.
 
-### Future Ideas
+### Project Ideas
 
 I have written a [short essay](History.md) on the development of <b>Linear Programming</b>, which also touches on its wide usage in different economical applications.
 
